@@ -1,0 +1,6 @@
+customer_id,customer_name,email,order_id,order_date,order_status,product_id,product_name,category,price,quantity,total_amount,shipping_id,shipping_address,courier,tracking_number,shipping_status,payment_id,payment_method,payment_amount,payment_status,payment_date
+1,"Arun Kumar",arun@gmail.com,1001,2026-09-01,Delivered,101,Laptop,Electronics,55000.00,1,55000.00,501,"Chennai, Tamil Nadu",BlueDart,BD10001,Delivered,601,UPI,55000.00,Paid,2026-09-01
+2,"Priya Sharma",priya@gmail.com,1002,2026-09-02,Processing,102,Smartphone,Electronics,30000.00,1,30000.00,502,"Bangalore, Karnataka",Delhivery,DL10002,Processing,602,"Credit Card",30000.00,Paid,2026-09-02
+3,"Rahul Raj",rahul@gmail.com,1003,2026-09-03,Shipped,103,Headphones,Accessories,5000.00,1,5000.00,503,"Hyderabad, Telangana",DTDC,DT10003,Shipped,603,"Debit Card",5000.00,Paid,2026-09-03
+4,"Divya Singh",divya@gmail.com,1004,2026-09-04,Delivered,101,Laptop,Electronics,55000.00,1,55000.00,504,"Mumbai, Maharashtra",BlueDart,BD10004,Delivered,604,"Net Banking",55000.00,Paid,2026-09-04
+5,"Karthik M",karthik@gmail.com,1005,2026-09-05,Pending,102,Smartphone,Electronics,30000.00,1,30000.00,505,"Delhi, India",Delhivery,DL10005,Pending,605,UPI,30000.00,Pending,2026-09-05
