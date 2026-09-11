@@ -1,0 +1,8 @@
+customer_id,customer_name,email,method_id,method_name,provider,merchant_id,merchant_name,business_type,location,transaction_id,amount,transaction_date,status,log_id,log_message,log_date
+1,"Arun Kumar",arun@gmail.com,3,UPI,"Google Pay",101,"Amazon Store","Online Shopping",Chennai,1001,25000.00,2026-09-01,Success,1,"Payment completed successfully",2026-09-01
+2,"Priya Sharma",priya@gmail.com,1,"Credit Card",Visa,102,"Flipkart Store","Online Shopping",Bangalore,1002,15000.00,2026-09-02,Success,2,"Credit card payment approved",2026-09-02
+3,"Rahul Raj",rahul@gmail.com,2,"Debit Card",MasterCard,103,"Reliance Digital",Electronics,Chennai,1003,35000.00,2026-09-03,Pending,3,"Payment is waiting for confirmation",2026-09-03
+4,"Divya Singh",divya@gmail.com,5,Wallet,Paytm,104,"Myntra Store",Fashion,Mumbai,1004,5000.00,2026-09-04,Success,4,"Wallet payment completed",2026-09-04
+5,"Karthik M",karthik@gmail.com,4,"Net Banking",SBI,105,"Book World",Books,Delhi,1005,2500.00,2026-09-05,Failed,5,"Payment failed due to bank issue",2026-09-05
+1,"Arun Kumar",arun@gmail.com,1,"Credit Card",Visa,103,"Reliance Digital",Electronics,Chennai,1006,12000.00,2026-09-06,Success,6,"Credit card payment completed",2026-09-06
+2,"Priya Sharma",priya@gmail.com,3,UPI,"Google Pay",101,"Amazon Store","Online Shopping",Chennai,1007,8000.00,2026-09-07,Success,7,"UPI payment completed successfully",2026-09-07
